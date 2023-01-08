@@ -6,7 +6,9 @@ Get ready for some intense block climbing action! In this 2D platformer game, pl
 
 ## How to Play
 
-- Use the arrow keys to move left <kbd>&larr;</kbd> and right <kbd>&rarr;</kbd> and to jump <kbd>&uarr;</kbd>.
+- Player 1: Use the arrow keys to move left <kbd>&larr;</kbd> and right <kbd>&rarr;</kbd> and to jump <kbd>&uarr;</kbd>.
+- Player 2: Use the keys to move left <kbd>&a;</kbd> and right <kbd>&d;</kbd> and to jump <kbd>&w;</kbd>.
+
 - Avoid obstacles and try to reach the top of the course before your opponent.
 - The first player to reach the top wins the round. Can you come out on top?
 
