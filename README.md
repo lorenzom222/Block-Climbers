@@ -11,7 +11,7 @@ In this game, players use the arrow keys to move their climbers left and right a
 
 ## Controls
 
-- Use the arrow keys to move left &larr; and right &rarr; and to jump &uarr; & &darr;.
+- Use the arrow keys to move left `&larr;` and right `&rarr;` and to jump `&uarr;` & `&darr;`.
 
 ## Installation
 
