@@ -1,17 +1,15 @@
-# Block Climbers
+# Block Climbers: The Ultimate Block Climbing Showdown
 
 **Author: Lorenzo Mendoza**
 
+Get ready for some intense block climbing action! In this 2D platformer game, players control climbers who must compete to be the first to reach the top of an epic obstacle course. Can you outmaneuver your opponent and claim victory?
 
-A 2D platformer game where players control climbers who must compete to be the first to reach the top of an obstacle course.
-
-## Introduction
-
-In this game, players use the arrow keys to move their climbers left and right and to jump. They must avoid obstacles and try to reach the top of the course before their opponent. The first player to reach the top wins the round.
-
-## Controls
+## How to Play
 
 - Use the arrow keys to move left <kbd>&larr;</kbd> and right <kbd>&rarr;</kbd> and to jump <kbd>&uarr;</kbd>.
+- Avoid obstacles and try to reach the top of the course before your opponent.
+- The first player to reach the top wins the round. Can you come out on top?
+
 
 ## Installation
 
