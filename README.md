@@ -2,13 +2,12 @@
 
 **Author: Lorenzo Mendoza**
 
-# My Game
 
 A 2D platformer game where players control climbers who must compete to be the first to reach the top of an obstacle course.
 
 ## Introduction
 
-In this game, players use the arrow keys to move their climbers left and right and to jump. They must avoid obstacles and enemies, and try to reach the top of the course before their opponent. The first player to reach the top wins the round.
+In this game, players use the arrow keys to move their climbers left and right and to jump. They must avoid obstacles and try to reach the top of the course before their opponent. The first player to reach the top wins the round.
 
 ## Controls
 
